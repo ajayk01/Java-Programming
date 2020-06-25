@@ -1,0 +1,11 @@
+Enter the Degree for sin 
+90
+Enter the Degree for Cos 
+0
+Enter the Degree for Tan 
+0
+The sin valueis 1.0
+The cos valueis 1.0
+The Tan value is 1.0
+
+
